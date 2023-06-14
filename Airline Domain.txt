@@ -92,6 +92,9 @@ Booking Module:
 -->Change Seats
 -->Change Flight
 -->Change Cabin
+manimaran
+mani
+
 
 
 
